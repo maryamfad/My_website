@@ -1,0 +1,9 @@
+.container{
+    height: 50%;
+}
+
+.slide-image{
+    width: 200px;
+  height: 91.5vh; 
+  object-fit: cover;
+}
